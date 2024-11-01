@@ -1,0 +1,3 @@
+/Users/apple/Documents/sohail/Hydrogen/build/CMakeFiles/hydro.dir
+/Users/apple/Documents/sohail/Hydrogen/build/CMakeFiles/edit_cache.dir
+/Users/apple/Documents/sohail/Hydrogen/build/CMakeFiles/rebuild_cache.dir
